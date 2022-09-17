@@ -2,7 +2,7 @@
 
 
 >Igor Henrique da Silva
-Projeto construído do curso do While True, com a intenção de criar um currílo meu.
+Projeto construído do curso do While True, com a intenção de criar um currículo meu.
 
 [ Clique aqui para acessar](https://igorstarkh.github.io/curriculoWEB/)
 
