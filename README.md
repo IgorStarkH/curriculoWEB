@@ -1,6 +1,5 @@
 # Currículo
 
-![preview](./.github/preview%20curriculo.png)
 
 >Igor Henrique da Silva
 Projeto construído do curso do While True, com a intenção de criar um currílo meu.
